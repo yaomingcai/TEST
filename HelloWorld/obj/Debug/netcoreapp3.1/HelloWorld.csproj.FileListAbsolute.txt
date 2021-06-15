@@ -1,0 +1,13 @@
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\Visual Studio Projects\.Net Core Project\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
